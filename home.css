@@ -1,0 +1,44 @@
+body {
+
+    background-image: url(home.gif);
+    background-repeat: no-repeat;
+    background-size: 1050px;
+    background-attachment: fixed;
+    margin:0px;
+    background-position: center;
+    background-color: rgba(234, 234, 249, 0.696);
+    
+    }
+
+    ul {
+
+      margin: 0px;
+      padding: 0px;
+      list-style: none;
+      text-align: center;
+      overflow: hidden;
+      background-color: black;
+      
+    }
+
+    li {
+
+      float: left;
+    }
+
+   li a {
+     display: block;
+      font-size: 25px;
+      text-decoration: none;
+      color: white;
+      padding: 20px;
+  
+    }
+
+    li a:hover {
+
+      background-color: red;
+    }
+
+
+
